@@ -1,5 +1,5 @@
 # 💫 About Me:
-Atualmente eu trabalho com PL/SQL e Java na DBC Company.<br>Estou estudando .Net, React e iOS, pois são tecnologias que eu acho muito interessantes
+Atualmente eu trabalho com PL/SQL, Java e React na DBC Company.<br>Estou começando a estudar React para focar no trabalho e também gosto de estudar iOS por hobby.
 
 
 ## 🌐 Socials:
